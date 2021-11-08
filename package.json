@@ -28,10 +28,14 @@
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
     "commander": "^8.3.0",
+    "consolidate": "^0.16.0",
     "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
     "figlet": "^1.5.2",
     "inquirer": "^8.2.0",
     "log-symbols": "^5.0.0",
+    "metalsmith": "^2.3.0",
+    "ncp": "^2.0.0",
     "ora": "^4.1.1"
   }
 }
